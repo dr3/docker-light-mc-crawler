@@ -1,4 +1,5 @@
 {
+  "url": "https://www.example.com/music",
   "maxDepth": 2,
   "maxChromeInstances": 5,
   "limit": "/music/",
