@@ -4,6 +4,6 @@
   "limit": "/music/",
   "httpsOnly": true,
   "showHttpLinksDuring": false,
-  "showHttpLinksAfter": true,
+  "showHttpLinksAfter": false,
   "chromeFlags": "--no-sandbox --user-data-dir --headless --disable-setuid-sandbox --disable-gpu"
 }
