@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "light-mc-crawler": "^1.2.0"
+    "light-mc-crawler": "^1.3.0"
   }
 }

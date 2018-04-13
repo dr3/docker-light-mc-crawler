@@ -1,3 +1,3 @@
 #!/bin/sh
-docker build -t lmcc .;
-docker run -it lmcc;
+docker build -t dockerlightmccrawler .;
+docker run -it dockerlightmccrawler;

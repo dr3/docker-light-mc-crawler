@@ -40,7 +40,6 @@ RUN curl -fSLO --compressed "https://yarnpkg.com/downloads/$YARN_VERSION/yarn-v$
 
 RUN mkdir /app
 COPY package.json /app
-COPY package-lock.json /app
 COPY config.json /app
 WORKDIR /app
 ENV TERM=xterm
