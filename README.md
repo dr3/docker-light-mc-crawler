@@ -3,8 +3,8 @@ A Docker wrapper for light-mc-crawler
 
 ## How to use
 1) Customise config.json
-2) Customise url in package.json start script
-3) run `run.sh`
+2) run `docker build -t dockerlightmccrawler .`
+3) run `docker run -it dockerlightmccrawler`
 
 ## Example output
 
