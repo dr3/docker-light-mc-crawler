@@ -1,0 +1,13 @@
+sudo: required
+
+services:
+  - docker
+
+before_install:
+- docker build -t dockerlightmccrawler .
+
+script:
+- docker run -it dockerlightmccrawler
+
+notifications:  
+-  email: false
