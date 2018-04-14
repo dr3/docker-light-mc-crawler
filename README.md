@@ -25,7 +25,6 @@ Mixed Content
 https://www.example.com/music ✗ is-on-https - Does not use HTTPS
    http://www.petmd.com/sites/default/files/petmd-cat-happy-10.jpg
    http://www.argospetinsurance.co.uk/assets/uploads/2017/12/cat-pet-animal-domestic-104827.jpeg
-https://www.example.com/music ✗ mixed-content - Some insecure resources can be upgraded to HTTPS
 
 
 Lighthouse Summary
