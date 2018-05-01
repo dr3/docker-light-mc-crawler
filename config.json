@@ -1,8 +1,8 @@
 {
-  "url": "https://www.example.com/music",
-  "maxDepth": 2,
+  "url": "https://www.stage.bbc.co.uk/news",
+  "maxDepth": 3,
   "maxChromeInstances": 5,
-  "limit": "/music/",
+  "limit": "/news/",
   "httpsOnly": true,
   "showHttpLinksDuring": false,
   "showHttpLinksAfter": false,
