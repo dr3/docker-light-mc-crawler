@@ -1,6 +1,6 @@
 {
   "url": "https://www.bbc.co.uk/news",
-  "maxDepth": 3,
+  "maxDepth": 6,
   "maxChromeInstances": 10,
   "limit": "/news/",
   "httpsOnly": true,
