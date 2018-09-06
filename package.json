@@ -1,6 +1,6 @@
 {
   "name": "docker-mixed-content-finder",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Drew McMillan",
   "license": "ISC",
   "dependencies": {
-    "light-mc-crawler": "^2.0.0"
+    "light-mc-crawler": "github:drewmcmillan/light-mc-crawler#version-two"
   }
 }

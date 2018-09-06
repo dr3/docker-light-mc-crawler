@@ -3,7 +3,7 @@ FROM ubuntu
 # Install basic tools/utilities and google Chrome beta/unstable (which has cross platform support for headless mode). Combining theem together so that apt cache cleanup would need to be done just once.
 
 RUN apt-get update -y && \
-    apt-get install ca-certificates libxss1 libxtst6 fonts-liberation libappindicator1 libappindicator3-1 \
+    apt-get install git ca-certificates libxss1 libxtst6 fonts-liberation libappindicator1 libappindicator3-1 \
       gconf-service libasound2 libatk1.0-0 libatk1.0-0 libdbus-1-3 xdg-utils lsb-release wget \
       libgconf-2-4 libgtk-3-0 libnspr4 libnss3 libx11-xcb1 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 \
       libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 \
